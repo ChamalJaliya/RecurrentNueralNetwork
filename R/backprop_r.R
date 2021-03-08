@@ -356,4 +356,5 @@ backprop_gru = function(model,a,c,j,...){
   return(model)
 }
 
+# new comm3nt
 
